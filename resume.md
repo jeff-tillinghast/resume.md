@@ -40,7 +40,7 @@ Managed all aspects of educational technology for independent 6-12 school includ
 Managed educational and operational technology departments for IB-affiliated American International PreK-12 school. Coached staff from over 30 countries on technology use and educational technology implementation.  
  - Supervised multi-national team of up to 6 American and Jamaican staff in both IT and Teaching Depts.
  - Redesigned Help Desk staffing and workflows to improve effectiveness and staff interactions.
- - Identified need for, and implemented, remote-managed hardware and support to provide resiliency and 			redundancy to on-campus network.
+ - Identified need for, and implemented, remote-managed hardware and support to provide resiliency and redundancy to on-campus network.
  - Coached teaching staff on educational technology use including facilitating year-long cohorts.
  - Developed vision for, and implemented, 1:1 iPad rollout while evolving pre-existing Mac-based program.
  - Conducted new staff onboarding.
@@ -49,7 +49,7 @@ Managed educational and operational technology departments for IB-affiliated Ame
 Directed comprehensive music program in state's largest public high school. Authored curriculum for existing and new learning paths and courses. Organized events including multi-state travel for 200+ students.  
  - Served as informal peer coach and mentor for educational technology.
  - Authored school 5-year Technology plan.
- - Designed and launched innovative 9-12 program within the state’s largest public high school as member of	8-person team. Collaboratively managed all aspects of school operation.
+ - Designed and launched innovative 9-12 program within the state’s largest public high school as member of 8-person team. Collaboratively managed all aspects of school operation.
  
 ## Technologies
 
